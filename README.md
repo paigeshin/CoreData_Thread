@@ -168,7 +168,7 @@ struct MovieViewModel {
 }
 ```
 
-### Merge Changes
+### Merge Context
 
 ```swift
 @objc func didSave(_ notification: Notification) {
@@ -180,7 +180,7 @@ struct MovieViewModel {
 }
 ```
 
-### Merge Changes on configuration
+### Merge Context on Configuration 
 
 ```swift
 // do some tasks on background ⇒ on main
